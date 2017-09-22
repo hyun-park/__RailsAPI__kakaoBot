@@ -1,4 +1,4 @@
-class Chats2Controller < ApplicationController
+class UsersController < ApplicationController
     def keyboard_init
         @msg =
             {
